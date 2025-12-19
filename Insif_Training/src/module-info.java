@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Insif_Training {
-}
