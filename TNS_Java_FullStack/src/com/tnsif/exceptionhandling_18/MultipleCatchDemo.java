@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling_18;
+package com.tnsif.exceptionhandling_18 ;
 
 public class MultipleCatchDemo {
 
@@ -24,5 +24,6 @@ public class MultipleCatchDemo {
 	        }
 	        System.out.println("-------------------------------------");
 	        System.out.println("MultipleCatch Program Ended");
+	   
 	    }
 	}
